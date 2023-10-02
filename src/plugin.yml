@@ -1,0 +1,17 @@
+name: FallDown
+author: Mertero
+version: 1.0.0
+depend: [Cloud]
+
+main: de.mertero.falldown.main.Main
+
+commands:
+    setspawn:
+    setlobby:
+    setarena:
+    start:
+    me:
+    ?:
+    help:
+    falldown: 
+    nn:
